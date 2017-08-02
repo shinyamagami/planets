@@ -1,2 +1,5 @@
 a.out
 results/
+log*
+log2
+log3
